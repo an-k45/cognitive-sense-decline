@@ -1,0 +1,13 @@
+topic,value
+Dep. Variable,preds
+Model,Logit
+Method,MLE
+Date,Wed
+Time,11:32:05
+converged,True
+No. Observations,276
+Df Residuals,267
+Df Model,8
+06 Dec 2023,Pseudo R-squ.
+Log-Likelihood,-120.51
+LL-Null,-191.30
