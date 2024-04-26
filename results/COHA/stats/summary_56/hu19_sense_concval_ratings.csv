@@ -1,0 +1,17 @@
+feature,cond,missing,train_size,test_type,test_size,corr
+conc,all,231,14605,hold_out,1000,0.8107
+conc,all,231,14605,match_set,824,0.8493
+conc,no_init,24,7406,hold_out,1000,0.8411
+conc,no_init,24,7406,match_set,824,0.8576
+conc,no_match,231,13781,hold_out,1000,0.8265
+conc,no_match,231,13781,match_set,824,0.8316
+conc,no_both,24,6582,hold_out,1000,0.8154
+conc,no_both,24,6582,match_set,824,0.8191
+val,all,2716,12120,hold_out,1000,0.6986
+val,all,2716,12120,match_set,824,0.7917
+val,no_init,1104,6326,hold_out,1000,0.712
+val,no_init,1104,6326,match_set,824,0.8074
+val,no_match,2653,11359,hold_out,1000,0.7163
+val,no_match,2653,11359,match_set,824,0.7599
+val,no_both,1041,5565,hold_out,1000,0.7189
+val,no_both,1041,5565,match_set,824,0.7503
